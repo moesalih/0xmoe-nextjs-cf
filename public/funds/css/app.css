@@ -1,0 +1,121 @@
+
+.btn-inverted {
+    background-color: #fff;
+    border: 2px solid #6db359;
+    color: #6db359;
+}
+.btn-inverted:hover, .btn-inverted:focus, .btn-inverted:active, .btn-inverted.active, .open .dropdown-toggle.btn-inverted {
+    background-color: #6db359;
+    color: #FFFFFF;
+}
+
+
+a {
+	color: #666;
+	text-decoration: none;
+}
+a:hover {
+	color: #000;
+	text-decoration: none;
+}
+
+
+p {
+	line-height: 140%;
+}
+
+
+body {
+	font-family: "Proxima Nova", Helvetica, Arial;
+	font-size: 16px;
+	background-color: #f6f6f6;
+	line-height: 1;
+}
+
+.container {
+	max-width: 600px;
+}
+
+#topbar {
+	height: 10px;
+	background-color: #6db359;
+}
+
+
+#header {
+	background-color: #fff;
+	padding: 20px 0;
+}
+
+#header #app_name {
+	color: #6db359;
+	font-weight: 600;
+	font-size: 36px;
+	margin-bottom: 20px;
+	letter-spacing: -1px;
+}
+#header #app_name img {
+	width: 64px;
+	height: 64px;
+	vertical-align: -20px;
+}
+
+#header #tagline {
+	font-weight: 300;
+}
+
+#header a#download {
+	margin: 3em 0 1em;
+	padding: 10px 32px;
+	font-weight: 600;
+}
+
+
+
+#screenshots {
+	background-color: #fcfcfc;
+	padding: 20px 0;
+}
+
+#screenshots .container {
+	padding: 0;
+}
+
+#screenshots .device {
+	display: inline-block;
+	position: relative;
+	width: 300px;
+}
+#screenshots .outline {
+	display: inline-block;
+	width: 100%;
+}
+#screenshots .screenshot {
+	position: absolute;	
+	width: 267px;
+	top: 83px;
+	left: 17px;
+	border: 1px solid #ccc;
+}
+
+
+
+#description {
+	background-color: #f9f9f9;
+	padding: 20px 0;
+	font-weight: 300;
+}
+
+
+#footer {
+	padding: 20px 0;
+}
+
+#moe {
+	font-size: 22px;
+	line-height: 30px;
+	letter-spacing: -1px;
+	margin-bottom: 20px;
+}
+
+
