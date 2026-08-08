@@ -37,6 +37,13 @@ export const projects: Project[] = [
     link: 'https://lmarena-charts.vercel.app/',
   },
   {
+    image: 'https://spacex.page/favicon.ico',
+    name: 'SpaceX Dashboard',
+    desc: 'Launch & Starlink tracker',
+    time: '2019-now',
+    link: 'https://spacex.page',
+  },
+  {
     image: 'https://icon-maker.moe-salih.workers.dev/paintbrush-icon.png',
     name: 'Icon Maker',
     desc: 'Build app icons from Lucide symbols',
@@ -49,13 +56,6 @@ export const projects: Project[] = [
     desc: 'Farcaster Explorer',
     time: '2025-2026',
     link: 'https://sonarr.cc/',
-  },
-  {
-    emoji: '🚀',
-    name: 'SpaceX Dashboard',
-    desc: 'Launch & Starlink tracker',
-    time: '2019-now',
-    link: 'https://spacex.page',
   },
   {
     image: '/projects/averry.png',
